@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0.1:8000";
+const BASE_URL = "https://python-developer-intern-task-submission.onrender.com";
 let token = localStorage.getItem("token") || "";
 let isLogin = true;
 
